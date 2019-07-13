@@ -1,174 +1,120 @@
-# [Material Kit](https://demos.creative-tim.com/material-kit/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Kit%20is%20a%20Free%20Bootstrap%204%20UI%20Kit%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/material-kit/index.html%20%23bootstrap%20%23material%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [Paper Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/paper-kit)
+
+![Paper Kit](http://s3.amazonaws.com/creativetim_bucket/products/33/original/opt_pk_thumbnail.jpg "Paper Kit Free")
+
+Paper Kit is a free Bootstrap UI kit that can get you going in a new creative direction! To say the least, it's different since it's not material, flat or iOS inspired. We hope the kit will help you make your mark and create something new. Using it is extremely convenient, since it offers fully responsive design and elements that are easy to use.
+
+We created this kit having paper and drawings in mind. We tried to focus on pale colours, beautiful typography and thoughtful drawings. If you like the result, you can use it in your projects for free. You can import it in an old project and make it look fresh, or you can start a new one. It's very easy to use and to integrate.
+
+Every element in the kit comes in fresh colour scheme, that goes from light blue to orange. Check out the [live preview](http://demos.creative-tim.com/paper-kit) to see how they fit!
+
+**Bootstrap 3 support**
+Paper Kit fully support Bootstrap3, since it is built on top of it. No worries there! We have redesigned most of its components, giving it a new look. If you are using a component we have not touched, it will gracefully fall back to the Bootstrap default.
+
+We will support very soon Bootstrap 4.0.
+
+**Examples**
+The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go. If you want to get a picture of what you can build with this powerful kit, you can see the examples here:
+
+- [Landing Page](http://demos.creative-tim.com/paper-kit/landing-page)
+- [Register Page](http://demos.creative-tim.com/paper-kit/register)
+- [Profile Page](http://demos.creative-tim.com/paper-kit/profile)
 
 
- ![version](https://img.shields.io/badge/version-2.0.5-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-kit.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-kit/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+Tutorial & Components
+To see what you will get in the archive and how you can start using the Paper Kit, you can check out the [tutorial](http://demos.creative-tim.com/paper-kit/tutorial) page. It has all the basics.
 
+If you want to see the documentation for every element, head over to the [components](http://demos.creative-tim.com/paper-kit/components) page.
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit/material-kit.gif)
+## Links:
 
-**Material Kit** is a **Free Bootstrap 4 UI Kit** with a fresh, new design inspired by Google's material design. You asked for it, so we built it. It's a great pleasure to introduce to you the material concepts in an easy to use and beautiful set of components. Along with the restyling of the Bootstrap elements, you will find three fully-coded example pages, to help you design your next project.
-
-**Material Kit** makes use of light, surface, and movement. It uses a deliberate color choice, edge-to-edge imagery, and large scale typography. The general layout resembles sheets of paper following multiple different layers so that the depth and order are obvious. The navigation stays mainly on the left and the actions on the right.
-
-This new design has elements that have been the result of research regarding ink and paper and the way objects and materials interact in real life. The result is a beautiful and consistent set of elements that can get you started with your next project. Material Kit is a great tool if you are looking to create a web presence for your Android application and need to be consistent, leaving the impression of visually similar elements. It is also a great resource in its own right, looking gorgeous and helping you build your web pages.
-
-**Material Kit** is based on the Github Repo from Fezvrasta who did an amazing job creating the backbone for the material effects, animations, and transitions. Big thanks to his team for their forward-thinking efforts.
-
-
-## Table of Contents
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
-## Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-react-native)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/material-kit-figma/presentation.html)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/wordpress-logo.jpg?raw=true" width="60" height="60" />](https://themeisle.com/themes/hestia/?ref=creativetim)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/photoshop-logo.jpg" width="60" height="60" />](https://github.com/creativetimofficial/material-kit/tree/photoshop)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/sketch-logo.jpg" width="60" height="60" />](https://github.com/creativetimofficial/material-kit/tree/sketch)
-
-
-
-
-
-
-| HTML | React | Vue  |
-| --- | --- | ---  |
-| [![Material Kit  HTML](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit)  | [![Material Kit  React](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react/material-kit-react.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit-react)  | [![Vue Material Kit](https://github.com/creativetimofficial/public-assets/blob/master/vue-material-kit/vue-material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/vue-material-kit)
-
-| React Native | Figma | WordPress |
-| ---  | --- | --- |
-| [![Material Kit React Native](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react-native/opt_mkrn_thumbnail.jpg?raw=true)](https://www.creative-tim.com/product/material-kit-react-native) | [![Material Kit Figma](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-figma/material-kit-figma.jpg?raw=true)](https://demos.creative-tim.com/material-kit-figma/presentation.html) | [![Material Kit WordPress](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-wordpress/opt_smd_thumbnail.jpg?raw=true)](https://themeisle.com/themes/hestia/?ref=creativetim)
-
-## Demo
-
-| Buttons | Inputs | Navbars  |
-| --- | --- | ---  |
-| [![Buttons](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/buttons.png?raw=true)](https://demos.creative-tim.com/material-kit/index.html#buttons)  | [![Inputs](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/inputs.png?raw=true)](https://demos.creative-tim.com/material-kit/index.html#inputs)  | [![Navbar](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/navbar-section.png?raw=true)](https://demos.creative-tim.com/material-kit/index.html#navigation)  
-
-| Login Page | Landing Page | Profile Page  |
-| --- | --- | ---  |
-| [![Login Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit/login-page.png)](https://demos.creative-tim.com/material-kit/index.html#carousel)  | [![Landing Page](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/landing-page.png?raw=true)](https://demos.creative-tim.com/material-kit/examples/landing-page.html)  | [![Profile Page](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/profile-page.png?raw=true)](https://demos.creative-tim.com/material-kit/examples/profile-page.html)  
-
-[View More](https://demos.creative-tim.com/material-kit/index.html)
-
++ [Live Preview](http://demos.creative-tim.com/paper-kit)
++ [Paper Kit PRO](http://demos.creative-tim.com/paper-kit-pro/presentation.html) (from $49)
 
 ## Quick start
 
-- `npm i material-kit`
-- [Download from Github](https://github.com/creativetimofficial/material-kit/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/material-kit).
-- Install with [Bower](https://bower.io/): ```bower install material-kit```.
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-kit.git`.
+Quick start options:
+
+- [Download from Github](https://github.com/creativetimofficial/paper-kit.git).
+- [Download from Creative Tim](http://www.creative-tim.com/product/paper-kit).
+- Clone the repo: `git clone https://github.com/creativetimofficial/paper-kit.git`.
 
 
-## Documentation
-The documentation for the Material Kit is hosted at our [website](https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html).
+### What's included
 
-
-## File Structure
 Within the download you'll find the following directories and files:
 
 ```
-material-kit/
-├── CHANGELOG.md
-├── LICENSE.md
-├── README.md
-├── assets
-│   ├── assets-for-demo
-│   ├── css
-│   │   ├── material-kit.css
-│   │   ├── material-kit.css.map
-│   │   └── material-kit.min.css
-│   ├── img
-│   ├── js
-│   │   ├── bootstrap-material-design.js
-│   │   ├── bootstrap-material-design.min.js
-│   │   ├── core
-│   │   │   ├── jquery.min.js
-│   │   │   └── popper.min.js
-│   │   ├── material-kit.js
-│   │   ├── material-kit.min.js
-│   │   └── plugins
-│   │       ├── bootstrap-datetimepicker.min.js
-│   │       ├── jasny-bootstrap.min.js
-│   │       ├── moment.min.js
-│   │       └── nouislider.min.js
-│   └── scss
-│       ├── bootstrap
-│       ├── core
-│       ├── material-kit.scss
-│       └── plugins
-├── bower.json
-├── docs
-│   └── documentation.html
-├── examples
-│   ├── landing-page.html
-│   ├── profile-page.html
-│   └── signup-page.html
-└── index.html
+x_paper_kit/
+├── assets/
+│   ├── css
+│   │   ├── ct-paper.css
+│   │   ├── demo.css
+│   │   └── examples.css
+│   ├── fonts/
+│   ├── img/
+│   ├── js/
+│   │   ├── bootstrap-datepicker.js
+│   │   ├── bootstrap-select.js
+│   │   ├── ct-paper-checkbox.js
+│   │   ├── ct-paper-radio.js
+│   │   ├── ct-paper.js
+│   │   ├── jquery-1.10.2.js
+│   │   ├── jquery-ui-1.10.4.custom.min.js
+│   │   └── presentation-page
+│   ├── paper_img/
+│   ├── sass/
+│   │   ├── ct-paper/
+│   │   ├── ct-paper.scss
+│   │   └── examples.scss
+│   └── video
+├── bootstrap3/
+├── components.html
+├── examples/
+├── index.html
+├── template.html
+└── tutorial.html
+
 ```
 
+### Version logs
 
-## Browser Support
+-V1.0 26.08.2015 Original Release
 
-At present, we officially aim to support the last two versions of the following browsers:
+-V1.1 05.11.2015 Bugfixing
+- input-group button fix
+- changed checkbox to square and changed hover effect
+- fixed bug on register page cut-off
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
+-V1.2 4.12.2015 Changes
+- updated Bootstrap to latest stable version(3.3.6)
+- added SASS and Less files
+- added style for off-canvas navigation
+- fixed small bugs.
 
+-V1.2.1 25.02.2016 Bugfixing
+- fix the issue with disappearing navbar on mobile screen
 
+-V1.2.2 18.01.2017 MIT License [current version]
+- changed licensing agreement to MIT 
 
-## Resources
-- Demo: <https://demos.creative-tim.com/material-kit/index.html>
-- Download Page: <https://www.creative-tim.com/product/material-kit>
-- Documentation: <https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-kit/issues)
-- **Dashboards:**
+### License
 
-| HTML | React | Vue  | Angular |
-| --- | --- | ---  | ---  |
-| [![Material Dashboard  HTML](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-html/material-dashboard.jpeg?raw=true)](https://www.creative-tim.com/product/material-dashboard) | [![Material Dashboard  React](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-react/material-dashboard-react.jpeg?raw=true)](https://www.creative-tim.com/product/material-dashboard-react) | [![Vue Material Dashboard](https://github.com/creativetimofficial/public-assets/blob/master/vue-material-dashboard/vue-material-dashboard.jpeg?raw=true)](https://www.creative-tim.com/product/vue-material-dashboard)  | [![ Material Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-angular/material-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/material-dashboard-angular2)
+- Copyright 2017 Creative Tim (http://www.creative-tim.com)
+- Licensed under MIT (https://github.com/timcreative/paper-kit/blob/master/LICENSE.md)
 
-| HTML Dark | Vuetify  |
-| --- | --- |
-| [![Material Dashboard Dark](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-dark/material-dashboard-dark.jpg?raw=true)](https://www.creative-tim.com/product/material-dashboard-dark) | [![Material Dashboard Vuetify](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-vuetify/material-dashboard-vuetify.jpg?raw=true)](https://www.creative-tim.com/product/vuetify-material-dashboard)
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=mk-github-readme).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Licensing
-
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=mk-github-readme)
-
-- Licensed under MIT (https://github.com/creativetimofficial/material-kit/blob/master/LICENSE.md)
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mk-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=mk-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=mk-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=mk-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=mk-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=mk-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=mk-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mk-github-readme)
+More products from Creative Tim: <http://www.creative-tim.com/products>
 
-### Social Media
+Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
+
+Freebies: <http://www.creative-tim.com/products>
+
+Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
+
+Social Media:
 
 Twitter: <https://twitter.com/CreativeTim>
 
@@ -176,4 +122,8 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
+    
+    
