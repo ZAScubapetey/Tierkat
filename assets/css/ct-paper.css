@@ -2014,14 +2014,17 @@ textarea.form-control {
   background-color: #d6d2cc; }
 
 .carousel-inner > .item {
-  padding: 50px; }
+  padding: 0px; }
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  border-radius: 8px;
+  border-radius: 0px;
   box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
-  margin-left: 25%;
-  max-width: 50%; }
+ align-self: center;
+  height: 80vh;
+  margin-left: auto;
+  margin-right: auto; 
+ }
 
 .carousel-indicators {
   bottom: 0px; }
