@@ -2021,8 +2021,8 @@ textarea.form-control {
   border-radius: 0px;
   box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
   align-self: center;
-  height: 40vw;
-  width: 40vw;
+  height: auto;
+  
   margin-left: auto;
   margin-right: auto; 
  }
