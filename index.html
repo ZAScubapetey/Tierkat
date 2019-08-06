@@ -22,10 +22,10 @@
     <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
     <style type="text/css">
         #mc_embed_signup {
-            background:#f4f3ef;
+            background: #f4f3ef;
             clear: left;
             font: 14px Helvetica, Arial, sans-serif;
-            color:#66615b
+            color: #66615b
         }
 
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -288,22 +288,45 @@
 
                                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                                 <div class="mc-field-group">
+                                    <label for="mce-FNAME">First Name </label>
+                                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                                </div>
+                                <div class="mc-field-group">
                                     <label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
                                     </label>
                                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                                </div>
-                                <div class="mc-field-group">
-                                    <label for="mce-FNAME">First Name </label>
-                                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
                                 </div>
                                 <div class="mc-field-group">
                                     <label for="mce-LNAME">Last Name </label>
                                     <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
                                 </div>
                                 <div class="mc-field-group">
-                                    <label for="mce-MMERGE6">Boskat </label>
-                                    <select name="MMERGE6" class="" id="mce-MMERGE6">
+                                    <label for="mce-BOSKAT">Boskat </label>
+                                    <select name="BOSKAT" class="" id="mce-BOSKAT">
                                         <option value=""></option>
+                                        <option value="None">None</option>
+                                        <option value="Red">Red</option>
+                                        <option value="Green">Green</option>
+                                        <option value="Black">Black</option>
+
+                                    </select>
+                                </div>
+                                <div class="mc-field-group">
+                                    <label for="mce-ROOIKAT">Rooikat </label>
+                                    <select name="ROOIKAT" class="" id="mce-ROOIKAT">
+                                        <option value=""></option>
+                                        <option value="None">None</option>
+                                        <option value="Red">Red</option>
+                                        <option value="Green">Green</option>
+                                        <option value="Black">Black</option>
+
+                                    </select>
+                                </div>
+                                <div class="mc-field-group">
+                                    <label for="mce-TIERKAT">Tierkat </label>
+                                    <select name="TIERKAT" class="" id="mce-TIERKAT">
+                                        <option value=""></option>
+                                        <option value="None">None</option>
                                         <option value="Red">Red</option>
                                         <option value="Green">Green</option>
                                         <option value="Black">Black</option>
@@ -317,12 +340,15 @@
                                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
                                         name="b_fb0a21fdfc6c013ecbcc2aed9_122cc15473" tabindex="-1" value=""></div>
-                                <div class="clear"><input type="submit" value="Subscribe" name="subscribe"
+                                <div class="clear"><input type="submit" value="Subscribe" name="Order"
                                         id="mc-embedded-subscribe" class="button"></div>
                             </div>
                         </form>
                     </div>
-
+                    <script type='text/javascript'
+                        src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+                    <script
+                        type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; fnames[6] = 'BOSKAT'; ftypes[6] = 'dropdown'; fnames[9] = 'ROOIKAT'; ftypes[9] = 'dropdown'; fnames[7] = 'TIERKAT'; ftypes[7] = 'dropdown'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
                     <!--End mc_embed_signup-->
                     <!-- end wrapper -->
                 </div>
