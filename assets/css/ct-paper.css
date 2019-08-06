@@ -16,11 +16,9 @@
 
 /*      light colors - used for select dropdown         */
 /*           Font Smoothing      */
-
 html {
   scroll-behavior: smooth;
 }
-
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2742,13 +2740,3 @@ textarea.form-control {
 .datepicker-months thead {
   padding: 0 0 3px;
   display: block; }
-
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .sticky + .content {
-    padding-top: 60px;
-  }
