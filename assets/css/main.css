@@ -984,10 +984,21 @@ pre.prettyprint{
 .area-line a{
     color: #666;
 }
+
+.container{
+    width: 60%;  
+}
+
 .container-fluid{
     padding-right: 15px;
     padding-left: 15px;
+    
 }
+
+.col-md-4{
+    padding:0px;
+}
+
 .example-pages{
     margin-top: 50px;
 }
