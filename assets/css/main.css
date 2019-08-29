@@ -985,9 +985,6 @@ pre.prettyprint{
     color: #666;
 }
 
-.container{
-    width: 60%;  
-}
 
 .container-fluid{
     padding-right: 15px;
@@ -995,7 +992,7 @@ pre.prettyprint{
     
 }
 
-.col-md-4{
+.col-sm-4{
     padding:0px;
 }
 
