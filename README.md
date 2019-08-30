@@ -1,43 +1,35 @@
-# [Paper Kit - Free Bootstrap UI Kit](http://demos.creative-tim.com/paper-kit)
+# [Now UI Kit](http://demos.creative-tim.com/now-ui-kit/index.html) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
-![Paper Kit](http://s3.amazonaws.com/creativetim_bucket/products/33/original/opt_pk_thumbnail.jpg "Paper Kit Free")
-
-Paper Kit is a free Bootstrap UI kit that can get you going in a new creative direction! To say the least, it's different since it's not material, flat or iOS inspired. We hope the kit will help you make your mark and create something new. Using it is extremely convenient, since it offers fully responsive design and elements that are easy to use.
-
-We created this kit having paper and drawings in mind. We tried to focus on pale colours, beautiful typography and thoughtful drawings. If you like the result, you can use it in your projects for free. You can import it in an old project and make it look fresh, or you can start a new one. It's very easy to use and to integrate.
-
-Every element in the kit comes in fresh colour scheme, that goes from light blue to orange. Check out the [live preview](http://demos.creative-tim.com/paper-kit) to see how they fit!
-
-**Bootstrap 3 support**
-Paper Kit fully support Bootstrap3, since it is built on top of it. No worries there! We have redesigned most of its components, giving it a new look. If you are using a component we have not touched, it will gracefully fall back to the Bootstrap default.
-
-We will support very soon Bootstrap 4.0.
-
-**Examples**
-The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go. If you want to get a picture of what you can build with this powerful kit, you can see the examples here:
-
-- [Landing Page](http://demos.creative-tim.com/paper-kit/landing-page)
-- [Register Page](http://demos.creative-tim.com/paper-kit/register)
-- [Profile Page](http://demos.creative-tim.com/paper-kit/profile)
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/56/original/opt_nuk_thumbnail.jpg?1466002372 "Now UI Kit")
 
 
-Tutorial & Components
-To see what you will get in the archive and how you can start using the Paper Kit, you can check out the [tutorial](http://demos.creative-tim.com/paper-kit/tutorial) page. It has all the basics.
+**[Now UI Kit](http://demos.creative-tim.com/now-ui-kit/index.html)** is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates.
 
-If you want to see the documentation for every element, head over to the [components](http://demos.creative-tim.com/paper-kit/components) page.
+Now UI Kit is one of the most popular UI Kits online, provided in PSD and Sketch formats by Invision. We wanted to find a way for developers worldwide to benefit from using it. So, in collaboration with Invision, we are launching the HTML version for it!
+
+Now will help you create a clean and simple website that is a perfect fit for today's flat design. It is built using the 12 column grid system, with components designed to fit together perfectly. It makes use of bold colours, beautiful typography, clear photography and spacious arrangements.
+
+Create awesome, lifelike prototypes with InVision and Now so your users can experience and give feedback on your vision!
+
+To get the PSD and Sketch files, please visit Invision (https://www.invisionapp.com/now).
+
+
+**Bootstrap 4 Support**
+Now UI Kit is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Now UI Kit style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
+
+**Example Pages**
+We wanted to fully display the power of this kit, so the kit comes packed with examples showing you how to use the components. Inside the product you will find:
 
 ## Links:
 
-+ [Live Preview](http://demos.creative-tim.com/paper-kit)
-+ [Paper Kit PRO](http://demos.creative-tim.com/paper-kit-pro/presentation.html) (from $49)
++ [Live Preview](http://demos.creative-tim.com/now-ui-kit/index.html)
++ [Profile Page](http://demos.creative-tim.com/now-ui-kit/examples/profile-page.html)
++ [Login Page](http://demos.creative-tim.com/now-ui-kit/examples/login-page.html)
++ [Landing Page](http://demos.creative-tim.com/now-ui-kit/examples/landing-page.html)
++ [Now UI Kit PRO](http://demos.creative-tim.com/now-ui-kit-pro/presentation.html) (from $69)
 
-## Quick start
-
-Quick start options:
-
-- [Download from Github](https://github.com/creativetimofficial/paper-kit.git).
-- [Download from Creative Tim](http://www.creative-tim.com/product/paper-kit).
-- Clone the repo: `git clone https://github.com/creativetimofficial/paper-kit.git`.
+**Tutorial**
+In order for you to easily be able to use the Now UI kit, we have created a tutorial page. It shows the structure for the files inside the archive and how to import them. It then features every components with a description and example fr how to use it. You can see the details here (link).
 
 
 ### What's included
@@ -45,68 +37,39 @@ Quick start options:
 Within the download you'll find the following directories and files:
 
 ```
-x_paper_kit/
-├── assets/
-│   ├── css
-│   │   ├── ct-paper.css
-│   │   ├── demo.css
-│   │   └── examples.css
-│   ├── fonts/
-│   ├── img/
-│   ├── js/
-│   │   ├── bootstrap-datepicker.js
-│   │   ├── bootstrap-select.js
-│   │   ├── ct-paper-checkbox.js
-│   │   ├── ct-paper-radio.js
-│   │   ├── ct-paper.js
-│   │   ├── jquery-1.10.2.js
-│   │   ├── jquery-ui-1.10.4.custom.min.js
-│   │   └── presentation-page
-│   ├── paper_img/
-│   ├── sass/
-│   │   ├── ct-paper/
-│   │   ├── ct-paper.scss
-│   │   └── examples.scss
-│   └── video
-├── bootstrap3/
-├── components.html
-├── examples/
+Now Ui Kit
+├── CHANGELOG.md
+├── assets
+│   ├── css
+│   │   ├── bootstrap.min.css
+│   │   ├── demo.css
+│   │   └── now-ui-kit.css
+│   ├── fonts
+│   ├── img
+│   ├── js
+│   │   ├── core
+│   │   │   ├── bootstrap.min.js
+│   │   │   ├── jquery.3.2.1.min.js
+│   │   │   └── popper.min.js
+│   │   ├── now-ui-kit.js
+│   │   └── plugins
+│   │       ├── bootstrap-datetimepicker.js
+│   │       ├── bootstrap-switch.js
+│   │       └── nouislider.min.js
+├── documentation
+│   ├── template.html
+│   └── tutorial-components.html
+├── examples
+│   ├── landing-page.html
+│   ├── login-page.html
+│   └── profile-page.html
 ├── index.html
-├── template.html
-└── tutorial.html
-
+└── nucleo-icons.html
 ```
-
-### Version logs
-
--V1.0 26.08.2015 Original Release
-
--V1.1 05.11.2015 Bugfixing
-- input-group button fix
-- changed checkbox to square and changed hover effect
-- fixed bug on register page cut-off
-
--V1.2 4.12.2015 Changes
-- updated Bootstrap to latest stable version(3.3.6)
-- added SASS and Less files
-- added style for off-canvas navigation
-- fixed small bugs.
-
--V1.2.1 25.02.2016 Bugfixing
-- fix the issue with disappearing navbar on mobile screen
-
--V1.2.2 18.01.2017 MIT License [current version]
-- changed licensing agreement to MIT 
-
-### License
-
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
-- Licensed under MIT (https://github.com/timcreative/paper-kit/blob/master/LICENSE.md)
-
 
 ## Useful Links
 
-More products from Creative Tim: <http://www.creative-tim.com/products>
+More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
@@ -125,5 +88,8 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
-    
-    
+
+[CHANGELOG]: ./CHANGELOG.md
+[LICENSE]: ./LICENSE.md
+[version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
