@@ -1456,9 +1456,9 @@ fieldset[disabled] .btn-warning.active {
 .btn-danger:not(:disabled):not(.disabled).active,
 .btn-danger:not(:disabled):not(.disabled).active:focus,
 .show>.btn-danger.dropdown-toggle {
-  background-color: #f33816;
+  background-color: #FEA724;
   color: #f4f3ef;
-  border-color: #f33816;
+  border-color: #FEA724;
   box-shadow: none;
 }
 
@@ -1505,7 +1505,7 @@ fieldset[disabled] .btn-danger.active {
 .btn-danger.btn-link:focus:active,
 .open>.btn-danger.btn-link.dropdown-toggle {
   background-color: transparent !important;
-  color: #f33816 !important;
+  color: #FEA724 !important;
 }
 
 .btn-danger.btn-link .caret {
