@@ -2,4 +2,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tierkatc/public_html/
-    - /bin/cp -R Tierkat $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R docs $DEPLOYPATH
+    - /bin/cp -R examples $DEPLOYPATH
+    - /bin/cp -R examples $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
+    - /bin/cp -R index.html $DEPLOYPATH
