@@ -3,6 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/tierkatc/public_html/
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R awards $DEPLOYPATH
     - /bin/cp *.* $DEPLOYPATH
     
