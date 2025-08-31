@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bezuide3/tierkat.co.za/
+    - export DEPLOYPATH=/home/hkdcfgyd/tierkat/
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp *.* $DEPLOYPATH
     
